@@ -1,20 +1,26 @@
 
 body{
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif
 }
 #FeaturedParagraph{
     overflow: scroll; 
-    height: 380px
+    height: 380px;
+    font-style: italic;
 }
 #FeaturedSection{
     height: 480px; 
     width: 480px;
     display: inline-block;
+    text-align: left;
 }
 footer{
     width: 100%;
     height: 100px;
     background-color: grey;
+}
+h5{
+    font-weight: bold;
 }
 header{
     width: 100%;

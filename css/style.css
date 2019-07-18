@@ -1,0 +1,32 @@
+
+body{
+    text-align: center;
+}
+#FeaturedParagraph{
+    overflow: scroll; 
+    height: 380px
+}
+#FeaturedSection{
+    height: 480px; 
+    width: 480px;
+    display: inline-block;
+}
+footer{
+    width: 100%;
+    height: 100px;
+    background-color: grey;
+}
+header{
+    width: 100%;
+    padding: 10px;
+    background-color: grey;
+}
+img{
+    padding: 15px;
+}
+li{
+    display: inline-block;
+    text-align: center;
+    margin: 0 40px 0 40px;
+    vertical-align: middle;
+}
